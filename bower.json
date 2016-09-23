@@ -1,6 +1,6 @@
 {
     "name": "videojs-contrib-dash-dist",
-    "version": "2.5.2",
+    "version": "2.5.3",
     "description": "A Video.js source-handler providing MPEG-DASH playback.",
     "main": "dist/videojs-dash.min.js",
     "keywords": [
