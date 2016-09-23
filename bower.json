@@ -24,6 +24,6 @@
     ],
     "dependencies": {
        "video.js": "~5.11.2",
-       "dashjs"
+       "dashjs": "~2.3.0"
     }
 }
