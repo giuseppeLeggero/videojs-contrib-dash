@@ -1,6 +1,6 @@
 {
     "name": "videojs-contrib-dash-dist",
-    "version": "2.5.3",
+    "version": "2.5.4",
     "description": "A Video.js source-handler providing MPEG-DASH playback.",
     "main": "dist/videojs-dash.min.js",
     "keywords": [
@@ -20,7 +20,7 @@
         ".travis.yml",
         "Gruntfile.js",
         "index.html",
-        "package.json",
+        "package.json"
     ],
     "dependencies": {
        "video.js": "~5.11.2",
